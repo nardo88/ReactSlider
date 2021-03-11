@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactSlider/static/css/main.1298dd62.chunk.css",
+    "main.js": "/ReactSlider/static/js/main.b06c0aaf.chunk.js",
+    "main.js.map": "/ReactSlider/static/js/main.b06c0aaf.chunk.js.map",
+    "runtime-main.js": "/ReactSlider/static/js/runtime-main.1263eb40.js",
+    "runtime-main.js.map": "/ReactSlider/static/js/runtime-main.1263eb40.js.map",
+    "static/js/2.31ecd778.chunk.js": "/ReactSlider/static/js/2.31ecd778.chunk.js",
+    "static/js/2.31ecd778.chunk.js.map": "/ReactSlider/static/js/2.31ecd778.chunk.js.map",
+    "static/js/3.e628ea63.chunk.js": "/ReactSlider/static/js/3.e628ea63.chunk.js",
+    "static/js/3.e628ea63.chunk.js.map": "/ReactSlider/static/js/3.e628ea63.chunk.js.map",
+    "index.html": "/ReactSlider/index.html",
+    "static/css/main.1298dd62.chunk.css.map": "/ReactSlider/static/css/main.1298dd62.chunk.css.map",
+    "static/js/2.31ecd778.chunk.js.LICENSE.txt": "/ReactSlider/static/js/2.31ecd778.chunk.js.LICENSE.txt",
+    "static/media/ListItem.module.css": "/ReactSlider/static/media/delete.8a6887fd.png",
+    "static/media/List.module.css": "/ReactSlider/static/media/prev.abc4d8f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1263eb40.js",
+    "static/js/2.31ecd778.chunk.js",
+    "static/css/main.1298dd62.chunk.css",
+    "static/js/main.b06c0aaf.chunk.js"
+  ]
+}
